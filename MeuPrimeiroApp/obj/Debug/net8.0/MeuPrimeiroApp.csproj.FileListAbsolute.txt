@@ -1,0 +1,14 @@
+/home/bigodes/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp
+/home/bigodes/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.deps.json
+/home/bigodes/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.runtimeconfig.json
+/home/bigodes/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.dll
+/home/bigodes/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfoInputs.cache
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfo.cs
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.csproj.CoreCompileInputs.cache
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.dll
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/refint/MeuPrimeiroApp.dll
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.genruntimeconfig.cache
+/home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/ref/MeuPrimeiroApp.dll
