@@ -12,3 +12,18 @@
 /home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.pdb
 /home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.genruntimeconfig.cache
 /home/bigodes/MeuPrimeiroApp/obj/Debug/net8.0/ref/MeuPrimeiroApp.dll
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.deps.json
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.runtimeconfig.json
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.dll
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfoInputs.cache
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfo.cs
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.csproj.CoreCompileInputs.cache
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.sourcelink.json
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.dll
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/refint/MeuPrimeiroApp.dll
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.genruntimeconfig.cache
+/home/bigodes/Área de Trabalho/estudos_C#/Estudos_C-/MeuPrimeiroApp/obj/Debug/net8.0/ref/MeuPrimeiroApp.dll
